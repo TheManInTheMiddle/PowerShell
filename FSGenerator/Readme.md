@@ -1,6 +1,6 @@
 FSGenerator generate folder and file to feed a FS
 
-This script create a racine folder "FSGeneratorFolder" at the root of C:
+This script create a racine folder "FSGeneratorFolder" at the root of C: with all the other folder
 
 Folders are :
   Comptabilite
