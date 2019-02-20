@@ -11,3 +11,5 @@ Folders are :
   J'ecoute votre casette en boucle (This is just a fun folder with a lot of folder)
 
 Number and name of the file are randomdly generated
+
+For testing, SOC, education purpose.
