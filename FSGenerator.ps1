@@ -1,7 +1,7 @@
 ﻿<#
 Script generation de fichier
 
-Ce script génére plusieurs dossiers à la racine de C: et rempli ces dossiers de plusieurs fichiers
+Ce script génère plusieurs dossiers à la racine de C: et rempli ces dossiers de plusieurs fichiers
 
 Pour alimenter un serveur de fichier rapidement, pour des tests, SOC, etc...
 #>
